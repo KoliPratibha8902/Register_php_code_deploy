@@ -1,0 +1,9 @@
+## Inside this folder, create the following files:
+
+
+index.html (Your frontend form)
+register.php (Handles form submission)
+db.php (Database connection)
+style.css (Optional, for styling)
+success.html (For successful form submission message)
+excel_update.php (For writing data into an Excel file)
